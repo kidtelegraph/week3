@@ -1,3 +1,8 @@
 # week3
 
-asf
+## Our very first repository
+
+## WE LEARNING GIT
+
+So exciting
+
